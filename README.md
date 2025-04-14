@@ -2,6 +2,8 @@
 
 A simple project to display real-time stock prices and market data. This project is intended to run on a Raspberry Pi with a 3.5-inch LCD display. It pulls stock data from Yahoo finance API.
 
+<img src="assets/screenshot.png" alt="alt text" width="300">
+
 ## Configuration
 
 To configure the app, edit `app.js`:
