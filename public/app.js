@@ -1,7 +1,7 @@
 // Configuration settings
 const config = {
-    tickers: ['VOO', 'VGT', 'VUG', 'AAPL', 'TSLA', 'BTC-USD', 'NVDA', 'RHM.DE'],
-    rotationInterval: 10, // seconds
+    tickers: ['VOO', 'VGT', 'VUG', 'AAPL', 'TSLA', 'BTC-USD', 'EURUSD=X', 'NVDA', 'RHM.DE'],
+    rotationInterval: 15, // seconds
 };
 
 // DOM elements
